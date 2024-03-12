@@ -3,3 +3,6 @@ checking for git reset
 
 hi hello
 hi hello
+
+checking for git reset --soft
+added one line now.
